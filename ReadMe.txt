@@ -1,4 +1,4 @@
-Dāvida Lapiņā task for Magebit
+Dāvida Lapiņa task for Magebit
 -------------------------------------------------------------------------------------------
 To Run this project locally you need all the things 
 bellow installed on your computer :
@@ -15,6 +15,6 @@ email: text
 date: date
 -------------------------------------------------------------------------------------------
 Before running this project you will have to go in app/config/DBconfig.php file
-and pype in the username and password as wll as yoor localhost port nummber for database.
+and type in the username and password , localhost port nummber for database.
 -------------------------------------------------------------------------------------------
 After all this is set up you can run your apache server and in browser type in path to magebit folder
